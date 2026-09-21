@@ -1,0 +1,29 @@
+{
+  "name": "yndlingsfar",
+  "owner": {
+    "name": "Daniel Steiner"
+  },
+  "metadata": {
+    "description": "Daniels Claude-Code-Plugins. Dieses Repository ist nur der Index — jedes Plugin liegt in seinem eigenen Repository und wird dort versioniert."
+  },
+  "plugins": [
+    {
+      "name": "productivity-todoist",
+      "source": {
+        "source": "github",
+        "repo": "yndlingsfar/productivity-buddy"
+      },
+      "version": "1.6.0",
+      "description": "Todoist als Single Source of Truth für Tasks, gepaart mit einem Memory-System für Workplace-Shorthand. Skills: start, update, inbox-triage, context-collector, weekly-planner, container-session, kostenstellen-planer."
+    },
+    {
+      "name": "family-based-treatment",
+      "source": {
+        "source": "github",
+        "repo": "yndlingsfar/family-based-treatment"
+      },
+      "version": "0.1.0",
+      "description": "Unterstützt Eltern beim Family-Based Treatment: Mahlzeitenplanung, Kalorienbilanz und Rezeptanreicherung für das Refeeding zu Hause."
+    }
+  ]
+}
