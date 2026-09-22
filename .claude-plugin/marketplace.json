@@ -4,7 +4,7 @@
     "name": "Daniel Steiner"
   },
   "metadata": {
-    "description": "Daniels Claude-Code-Plugins. Dieses Repository ist nur der Index — jedes Plugin liegt in seinem eigenen Repository und wird dort versioniert."
+    "description": "Daniels öffentliche Claude-Code-Plugins. Dieses Repository ist nur der Index — jedes Plugin liegt in seinem eigenen Repository und wird dort versioniert. Private Plugins gehören bewusst nicht hierher, siehe README."
   },
   "plugins": [
     {
