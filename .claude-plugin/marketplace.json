@@ -13,7 +13,7 @@
         "source": "github",
         "repo": "yndlingsfar/productivity-buddy"
       },
-      "version": "1.6.0",
+      "version": "1.7.1",
       "description": "Todoist als Single Source of Truth für Tasks, gepaart mit einem Memory-System für Workplace-Shorthand. Skills: start, update, inbox-triage, context-collector, weekly-planner, container-session, kostenstellen-planer."
     },
     {
