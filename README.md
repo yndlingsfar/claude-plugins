@@ -24,7 +24,7 @@ Nach Änderungen an einem Plugin:
 
 | Plugin | Repository | Zweck |
 |---|---|---|
-| `family-based-treatment` | `yndlingsfar/family-based-treatment` | Mahlzeitenplanung, Kalorienbilanz und Rezeptanreicherung für familienbasiertes Refeeding |
+| `family-based-treatment` | `yndlingsfar/family-based-treatment` | Mahlzeitenplanung, Kalorienbilanz, Rezeptanreicherung, Gewichtsverlauf und Wochenbericht für Arzttermine |
 
 ## Ein Plugin hinzufügen
 
